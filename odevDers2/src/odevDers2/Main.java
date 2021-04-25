@@ -24,10 +24,6 @@ public class Main {
 		Category category2 = new Category(2, "Language");
 		
 		Category[] categories = { category1 , category2 };
-		
-		/*for (Category category : categories) {
-			System.out.println();
-		}*/
 
 	}
 
