@@ -25,9 +25,9 @@ public class Main {
 		
 		Category[] categories = { category1 , category2 };
 		
-		for (Category category : categories) {
+		/*for (Category category : categories) {
 			System.out.println();
-		}
+		}*/
 
 	}
 
